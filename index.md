@@ -1,61 +1,98 @@
 ---
-layout: default
 title: Tajul Islam
+layout: default
 ---
 
-# 👋 Hi, I'm Tajul Islam
-
-**Full Stack Developer** | **4.2 Years of Experience**
-
-Welcome to my personal GitHub Page! I'm a passionate full stack developer with over 4 years of experience building scalable, user-friendly web applications that balance design and functionality seamlessly.
-
----
-
-## 🚀 About Me
-
-I'm currently working as a Full Stack Developer, and I specialize in building robust back-end systems and intuitive front-end interfaces.
-
-- 🧠 Strong experience with **JavaScript**, **PHP**, **SQL**, and **Node.js**
-- 🧰 Frameworks: **Laravel**, **NestJS**, **React.js**
-- 🧩 Skilled in designing RESTful APIs and scalable databases
-- 📱 Mobile-first, responsive UI design mindset
+# 👋 Hi, I'm Tajul Islam  
+**Full Stack Developer | 4.2 Years of Experience**
 
 ---
 
-## 💼 Projects & Highlights
+## 🧑‍💻 About Me
 
-### 🔹 Quicke B2C & B2B Platform (Old)
-- 🏗️ Spearheaded entire development lifecycle
-- 📋 Defined requirements & managed resources
-- ✅ Delivered a comprehensive, scalable solution
-
-### 🔹 Quicke B2C Platform (New)
-- 🧱 Designed full system architecture and database
-- ⚙️ Laid foundation for long-term scalability
-
-### 🔹 GKAutomobiles Platform
-- 🧑‍🔧 Led development for car service management system
-- 🚘 Created end-to-end solution for operations and service tracking
-
-### 🔹 Visual Editor (React + Trello-style)
-- 🎨 Built drag-and-drop editor with dynamic state management
-- 📦 Implemented Trello-inspired UI using React and custom logic
+Full Stack Developer with a proven ability to bridge the gap between front-end design and back-end functionality. I create visually stunning and functionally flawless web products that perform exceptionally well on any device.
 
 ---
 
-## 🌱 What I Value
+## 💼 Work Experience
 
-I thrive in **agile** teams, and I love taking ownership of full-cycle product development—from concept and architecture to deployment and improvement. I believe in writing clean, maintainable code that solves real-world problems efficiently.
+### 🔹 Quick Ship Technologies — Full Stack Developer  
+📍 Dubai, UAE | 🗓️ Jun 2022 – Nov 2024  
+- Developed high-quality software in line with customer requirements.  
+- Conducted code reviews and improved team-wide code quality.  
+- Designed scalable web application architectures.  
+- Authored technical documentation and user training materials.  
+- Specialized in JavaScript, SQL, and PHP.  
+- Led agile meetings and improved development cycles.  
+- 📈 Result: Streamlined workflows, reducing rework by 40% and boosting business by 20–35%.
 
 ---
 
-## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com) (replace with your link)
-- 🐙 [GitHub](https://github.com/taj54)
-- ✉️ Email: your.email@example.com (optional)
+### 🔹 Mobyss Consulting Pvt. Ltd. — Portal Developer  
+📍 Chennai, India | 🗓️ Mar 2021 – Apr 2022  
+- Developed web apps for the auto industry.  
+- Wrote detailed project reports and documentation.  
+- Ensured fast and accurate order delivery.  
+- Conducted testing and diagnostics.  
+- Applied critical thinking for problem-solving.
 
 ---
 
-_Thanks for visiting my GitHub Page!_ 👨‍💻  
-© 2025 Tajul Islam
+### 🔹 Hari Infosolutions — Web Designer Intern  
+📍 Ramanathapuram, Tamil Nadu | 🗓️ Sep 2020 – Feb 2021  
+- Coded mobile-first responsive websites.  
+- Collaborated closely with web designers.  
+- Built UI with Bootstrap and dynamic AJAX interactions.
+
+---
+
+## 🌟 Projects
+
+- **GKAutomobiles Platform** — Project Lead for car service center system  
+- **Quicke B2C & B2B (Old)** — Spearheaded full-stack development  
+- **Quicke B2C (New)** — Architected and designed full database  
+- **Quicke B2B (New)** — Revamped business-to-business platform  
+- **Qconnect** — Led internal communication or integration platform  
+- **Servicepointpt Website** — Built hardware service company website  
+- **Marketing AI with Crew.ai** — Built AI-powered marketing automation  
+- **Visual Editor** — Developed Trello-like React interface for user editing
+
+---
+
+## 🏆 Awards & Certifications
+
+- 🥇 **Shield of Appreciation** from Quick Ship (Jun 2023)  
+- 🧩 PHP Skill Badge – LinkedIn  
+- 🎓 Coursera Certificates:
+  - “Web Design for Everybody”  
+  - “React Foundation Course”
+
+---
+
+## 🧠 Skills
+
+`PHP` • `Laravel` • `CodeIgniter` • `Node.js` • `React.js` • `JavaScript`  
+`MySQL` • `DB Design` • `API Design` • `Firebase`  
+ • `Agile Development` • `Project Management`  
+`DNS Management` • `Version Control` • `Problem Solving`
+
+---
+
+## 🌍 Languages
+
+- 🗣️ Tamil — Native  
+- 🗣️ English — Intermediate  
+- 🗣️ Malayalam — Beginner  
+- 🗣️ Hindi — Beginner  
+
+---
+
+## 📬 Contact Me
+
+- 📧 Email: [tajulislamj200@gmail.com](mailto:tajulislamj200@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/tajul-islam-j](https://www.linkedin.com/in/tajul-islam-j)  
+- 🐙 GitHub: [github.com/taj54](https://github.com/taj54)
+
+---
+
+© 2025 Tajul Islam. All rights reserved.
