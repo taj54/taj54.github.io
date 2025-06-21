@@ -1,11 +1,11 @@
 ---
-title: Tajul Islam
 layout: default
+title: Tajul Islam
 ---
 
 # 👋 Hi, I'm Tajul Islam
 
-**Full Stack Developer | 4.2 Years of Experience**
+**Full Stack Developer** | **4.2 Years of Experience**
 
 Welcome to my personal GitHub Page! I'm a passionate full stack developer with over 4 years of experience building scalable, user-friendly web applications that balance design and functionality seamlessly.
 
