@@ -1,3 +1,9 @@
 title: Tajul Islam
 description: Full Stack Developer Portfolio
 theme: jekyll-theme-minimal
+
+defaults:
+  - scope:
+      path: "vsc_extension"
+    values:
+      layout: extension

@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/custom-style.css' | relative_url }}">
+</head>
+
+<body>
+
+  <main>
+    <header>
+      <div class="extension-header">{{ page.title }}</div>
+    </header>
+
+    {{ content }}
+
+    <footer>
+      <hr style="margin: 2rem 0;" />
+      <p>👨‍💻 Built with 💙 by <a href="https://github.com/taj54" target="_blank">Taj</a></p>
+    </footer>
+  </main>
+
+</body>
+
+</html>

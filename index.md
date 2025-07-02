@@ -8,7 +8,7 @@ layout: default
     <p><strong>Full Stack Developer | 4.2 Years of Experience</strong></p>
     <p>I craft high-performance web applications with a balance of beautiful design and solid engineering.</p>
   </div>
-  <img src="assets/profile.jpg" alt="Tajul Islam" width="140" style="border-radius: 40%; margin-left: 20px;" />
+  <img src="assets/images/profile.jpg" alt="Tajul Islam" width="140" style="border-radius: 40%; margin-left: 20px;" />
 </div>
 
 ---
