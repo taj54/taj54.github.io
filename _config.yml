@@ -6,6 +6,11 @@ theme: jekyll-theme-minimal
 url: "https://taj54.github.io" 
 baseurl: ""                            # Leave empty for user/organization pages
 
+permalink: /blog/:title/
+
+paginate: 5         # number of posts per page
+paginate_path: "/blog/page:num"
+
 # Scope default layout for specific folder
 defaults:
   - scope:
@@ -20,6 +25,9 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-paginate
+
+
 
 # Exclude dev files from build
 exclude:
@@ -33,7 +41,7 @@ exclude:
 
 # Author metadata (optional)
 author:
-  name: Tajul Islam
+  name: Taj
   email: tajulislamj200@gmail.com
   github: taj54
   linkedin: tajulislam-j
