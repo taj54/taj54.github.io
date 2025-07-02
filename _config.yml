@@ -2,8 +2,38 @@ title: Tajul Islam
 description: Full Stack Developer Portfolio
 theme: jekyll-theme-minimal
 
+# Optional base settings
+url: "https://taj54.github.io" 
+baseurl: ""                            # Leave empty for user/organization pages
+
+# Scope default layout for specific folder
 defaults:
   - scope:
       path: "vsc_extension"
     values:
       layout: extension
+
+# Markdown parser
+markdown: kramdown
+
+# Plugins (optional, GitHub supports these natively)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude dev files from build
+exclude:
+  - Dockerfile
+  - docker-compose.yml
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - .gitignore
+  - .github
+
+# Author metadata (optional)
+author:
+  name: Tajul Islam
+  email: tajulislamj200@gmail.com
+  github: taj54
+  linkedin: tajulislam-j
