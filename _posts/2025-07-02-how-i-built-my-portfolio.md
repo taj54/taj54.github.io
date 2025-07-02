@@ -1,7 +1,7 @@
 ---
 
 title: "How I Built My Portfolio" 
-date: 2025-07-01
+date: 2025-07-02
 layout: post
 
 # Creating a personal portfolio is one of the best ways to showcase your skills and projects. In this post, I’ll walk through how I built mine using **Jekyll**, **Docker**, and **GitHub Pages**.

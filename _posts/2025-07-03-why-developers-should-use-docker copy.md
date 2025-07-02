@@ -1,7 +1,7 @@
 ---
 
 title: "Why Developers Should Use Docker"
-date: 2025-07-02
+date: 2025-07-03
 layout: post
 
 ---
