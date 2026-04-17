@@ -24,8 +24,10 @@ RUN bundle install
 # Copy the rest of the project
 COPY . .
 
+# Ensure the entrypoint script has execution permissions
+RUN chmod +x entrypoint.sh
+
 # Expose the default Jekyll port
 EXPOSE 4000
 
-# Start the Jekyll server
-CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0", "--port", "4000", "--watch", "--force_polling", "--drafts"]
+ENTRYPOINT ["./entrypoint.sh"]
